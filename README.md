@@ -34,6 +34,13 @@ _Source code will be provided only after confirmation._
 
 ---
 
+screenshots
+
+  
+<img width="1920" height="1080" alt="Screenshot (68)" src="https://github.com/user-attachments/assets/7d050b15-27cd-4602-b21b-be95d7f99fc4" />
+
+
+
 ## 🧑‍💻 Technologies Used
 
 - PHP
